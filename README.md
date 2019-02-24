@@ -1,2 +1,3 @@
 # hello-word
-CTE 
+CTE
+GIT is lit 
